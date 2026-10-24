@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 215｜Grayscale Axonometric with Ochre Accent: rebuilds a photo's subject as a small, precise axonometric diagram vignette — three to five key parts organised through axonometric projection, sections and layering, with people, animals, plants or objects also drawn as diagrammatic specimens — in white, light and mid grey with darker profile lines on the key edges, faint thin lines for any surroundings, about ninety percent white and pale cool grey, and a single ochre or warm-orange accent on a figure or focal point, plus a few slim architectural-publication captions in open white space. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-215 or asks for minimal architectural axonometric, grayscale diagram illustration with one warm accent from a photo.",
+  "short_description": "灰阶赭黄极简轴测：把照片主体画成一枚白灰轴测图解小品，只点一处赭黄",
+  "zh-CN": {
+    "name": "灰阶赭黄极简轴测",
+    "tagline": "把照片主体画成一枚白灰色的精密轴测图解小品，只点一处赭黄。",
+    "look": "照片主体被转成一枚精密的轴测图解小品：只留三到五个关键部分，用轴测、剖切和层级关系重新组织；即使是人、动物或器物，也画成立体图解标本。白、浅灰、中灰分出层次，较深的轮廓线勾出外形、剖切边和结构转折，周围环境只剩极浅极细的几笔。约九成画面是白和极浅冷灰，只在一个小人、尺度参照或最关键的点上用赭黄或暖橙。留白里放少量细瘦、建筑出版物式的标题或注释。",
+    "traits": ["极简轴测", "剖切图解", "灰阶层级", "单一赭黄点色", "大面积留白"],
+    "good": [
+      "结构清楚的建筑和空间：一栋房子、楼梯间、一座桥、一个亭子",
+      "构造明确的物件：椅子、自行车、相机、台灯",
+      "有人在其中、能当尺度参照的场景：人站在门口、人走过桥面"
+    ],
+    "poor": [
+      "柔软没有结构的主体：云、水面、毛茸茸的宠物特写",
+      "靠色彩和气氛取胜的照片：霓虹夜景、晚霞、彩色市集",
+      "想要写实 3D 效果图、浓重阴影或多彩装饰的需求"
+    ]
+  },
+  "en": {
+    "name": "Grayscale Axonometric with Ochre Accent",
+    "tagline": "Draws the subject of a photo as a small, precise white-and-grey axonometric diagram with one ochre accent.",
+    "look": "Your subject becomes a small, precise axonometric diagram: only three to five key parts are kept and reorganised through axonometric projection, cut-away sections and layering, and even a person, animal or object is drawn as a three-dimensional diagram specimen. White, light grey and mid grey set the hierarchy, darker outlines trace the silhouette, section edges and structural turns, and the surroundings shrink to a few very faint, thin lines. About ninety percent of the page is white and pale cool grey, with ochre or warm orange used only on a small figure, a scale reference or the single most important point. A few slim captions in the style of an architecture book sit in the empty space.",
+    "traits": ["Minimal axonometric", "Cut-away diagram", "Grayscale hierarchy", "Single ochre accent", "Wide white space"],
+    "good": [
+      "Buildings and spaces with clear structure: a house, a stairwell, a bridge, a pavilion",
+      "Objects with an obvious construction: a chair, a bicycle, a camera, a desk lamp",
+      "Scenes with a person who can act as a scale reference: someone in a doorway, someone crossing a bridge"
+    ],
+    "poor": [
+      "Soft subjects with no structure: clouds, water surfaces, fluffy pet close-ups",
+      "Photos that depend on colour and atmosphere: neon night streets, sunsets, colourful markets",
+      "Requests for realistic 3D renderings, heavy shadows or multicoloured decoration"
+    ]
+  },
+  "ja": {
+    "name": "黄土色を添えた灰階軸測図",
+    "tagline": "写真の主役を、黄土色を一点だけ添えた白と灰の精密な軸測図の小品にします。",
+    "look": "主役を小さく精密な軸測図解にします。要になる部分を三〜五つだけ残し、軸測投影、断面、階層の関係で組み直します。人や動物、道具でも、立体的な図解標本として描きます。白、薄い灰、中間の灰で階層をつくり、濃い輪郭線で外形、断面の縁、構造の折れ目を示し、周囲の環境はごく淡く細い数本の線だけになります。画面の約九割は白とごく淡い寒色の灰で、黄土色や暖かいオレンジは小さな人物、スケールの目安、最も大事な一点にだけ使います。余白には建築書のような細身の見出しや注記が少し入ります。",
+    "traits": ["ミニマルな軸測図", "断面図解", "灰階の階層", "黄土色ひとつ", "広い余白"],
+    "good": [
+      "構造がはっきりした建物や空間：家、階段室、橋、東屋",
+      "組み立てが明快な物：椅子、自転車、カメラ、デスクランプ",
+      "人がスケールの目安になる場面：戸口に立つ人、橋を渡る人"
+    ],
+    "poor": [
+      "構造のない柔らかな対象：雲、水面、ふわふわのペットのアップ",
+      "色と雰囲気が魅力の写真：ネオンの夜景、夕焼け、色とりどりの市場",
+      "写実的な3Dパース、濃い影、多色の装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "황토색 강조가 있는 회색조 축측도",
+    "tagline": "사진의 주인공을 황토색 하나만 더한 흰색과 회색의 정밀한 축측 도해 소품으로 그립니다.",
+    "look": "주인공을 작고 정밀한 축측 도해로 바꿉니다. 핵심 부분을 세 개에서 다섯 개만 남겨 축측 투영, 단면, 층위 관계로 다시 짜고, 사람이나 동물, 물건도 입체 도해 표본처럼 그립니다. 흰색, 연회색, 중간 회색으로 위계를 세우고, 진한 윤곽선이 외형과 단면 경계, 구조가 꺾이는 곳을 짚으며, 주변 환경은 아주 옅고 가는 몇 줄만 남습니다. 화면의 약 90%는 흰색과 아주 옅은 차가운 회색이고, 황토색이나 따뜻한 주황은 작은 인물, 크기 기준, 가장 중요한 한 곳에만 씁니다. 여백에는 건축 출판물 같은 가는 제목이나 주석이 조금 들어갑니다.",
+    "traits": ["미니멀 축측도", "단면 도해", "회색조 위계", "황토색 포인트 하나", "넓은 여백"],
+    "good": [
+      "구조가 뚜렷한 건물과 공간: 집, 계단실, 다리, 정자",
+      "짜임새가 분명한 물건: 의자, 자전거, 카메라, 스탠드",
+      "사람이 크기 기준이 되는 장면: 문간에 선 사람, 다리를 건너는 사람"
+    ],
+    "poor": [
+      "구조가 없는 부드러운 대상: 구름, 수면, 털이 복슬한 반려동물 클로즈업",
+      "색과 분위기가 매력인 사진: 네온 야경, 노을, 알록달록한 시장",
+      "사실적인 3D 투시도, 짙은 그림자, 다채로운 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم محوري رمادي بلمسة مغرة",
+    "tagline": "يرسم العنصر الرئيسي في الصورة مخططاً محورياً دقيقاً صغيراً بالأبيض والرمادي مع لمسة مغرة واحدة.",
+    "look": "يتحول العنصر الرئيسي إلى مخطط محوري (أكسونومتري) صغير ودقيق: لا يبقى إلا ثلاثة إلى خمسة أجزاء أساسية يُعاد تنظيمها بالإسقاط المحوري والمقاطع والطبقات، وحتى الشخص أو الحيوان أو الأداة يُرسم نموذجاً تخطيطياً مجسّماً. يحدد الأبيض والرمادي الفاتح والمتوسط تراتب العناصر، وترسم خطوط أغمق الحدود الخارجية وحواف المقاطع ومنعطفات البنية، ولا يبقى من المحيط إلا خطوط قليلة باهتة رفيعة. نحو تسعين في المئة من الصفحة أبيض ورمادي بارد فاتح جداً، ولا يُستخدم لون المغرة أو البرتقالي الدافئ إلا على شخص صغير أو مرجع للمقياس أو أهم نقطة. وتظهر في الفراغ عناوين أو تعليقات قليلة رفيعة بأسلوب كتب العمارة.",
+    "traits": ["رسم محوري بسيط", "مخطط بالمقاطع", "تراتب رمادي", "لمسة مغرة واحدة", "فراغ أبيض واسع"],
+    "good": [
+      "مبانٍ وفضاءات واضحة البنية: بيت، بيت درج، جسر، جوسق",
+      "أشياء واضحة التركيب: كرسي، دراجة، كاميرا، مصباح مكتب",
+      "مشاهد فيها شخص يصلح مرجعاً للمقياس: شخص عند باب، شخص يعبر جسراً"
+    ],
+    "poor": [
+      "عناصر ناعمة بلا بنية: غيوم، سطح ماء، صور قريبة لحيوانات أليفة كثيفة الفرو",
+      "صور تعتمد على اللون والأجواء: شوارع ليلية بالنيون، غروب، أسواق ملونة",
+      "طلب مناظير ثلاثية الأبعاد واقعية أو ظلال كثيفة أو زخارف متعددة الألوان"
+    ]
+  }
+}
